@@ -1,0 +1,1001 @@
+id,title,artist,language,mood
+1,Seeti Maar,Shreya Ghoshal,Telugu,Happy
+2,Butta Bomma,Shreya Ghoshal,Telugu,Energetic
+3,Shayad,Sonu Nigam,Hindi,Romantic
+4,Srivalli,DSP,Telugu,Calm
+5,Kesariya,Sonu Nigam,Hindi,Sad
+6,Perfect,Adele,English,Calm
+7,Samajavaragamana,Sid Sriram,Telugu,Sad
+8,Kesariya,Shreya Ghoshal,Hindi,Energetic
+9,Kesariya,Badshah,Hindi,Romantic
+10,Srivalli,Anurag Kulkarni,Telugu,Romantic
+11,Seeti Maar,Anurag Kulkarni,Telugu,Energetic
+12,Channa Mereya,Neha Kakkar,Hindi,Calm
+13,Kesariya,Sonu Nigam,Hindi,Happy
+14,Kesariya,Neha Kakkar,Hindi,Energetic
+15,Apna Time Aayega,Shreya Ghoshal,Hindi,Energetic
+16,Srivalli,DSP,Telugu,Romantic
+17,Srivalli,Shreya Ghoshal,Telugu,Romantic
+18,Shape of You,Ed Sheeran,English,Sad
+19,Kesariya,Arijit Singh,Hindi,Calm
+20,Samajavaragamana,DSP,Telugu,Happy
+21,Shape of You,Katy Perry,English,Sad
+22,Vachindamma,Shreya Ghoshal,Telugu,Happy
+23,Butta Bomma,Sid Sriram,Telugu,Calm
+24,Srivalli,Armaan Malik,Telugu,Romantic
+25,Shayad,Neha Kakkar,Hindi,Sad
+26,Tum Hi Ho,Sonu Nigam,Hindi,Calm
+27,Shape of You,Adele,English,Calm
+28,Apna Time Aayega,Sonu Nigam,Hindi,Calm
+29,Perfect,The Weeknd,English,Happy
+30,Apna Time Aayega,Badshah,Hindi,Happy
+31,Vachindamma,Armaan Malik,Telugu,Energetic
+32,Kesariya,Badshah,Hindi,Energetic
+33,Apna Time Aayega,Badshah,Hindi,Energetic
+34,Channa Mereya,Badshah,Hindi,Romantic
+35,Seeti Maar,Anurag Kulkarni,Telugu,Happy
+36,Someone Like You,The Weeknd,English,Sad
+37,Shape of You,Katy Perry,English,Sad
+38,Apna Time Aayega,Sonu Nigam,Hindi,Sad
+39,Samajavaragamana,Sid Sriram,Telugu,Calm
+40,Kesariya,Neha Kakkar,Hindi,Calm
+41,Tum Hi Ho,Arijit Singh,Hindi,Sad
+42,Shape of You,Adele,English,Happy
+43,Apna Time Aayega,Neha Kakkar,Hindi,Energetic
+44,Kesariya,Sonu Nigam,Hindi,Calm
+45,Butta Bomma,Anurag Kulkarni,Telugu,Happy
+46,Shape of You,Adele,English,Energetic
+47,Seeti Maar,Anurag Kulkarni,Telugu,Happy
+48,Seeti Maar,Armaan Malik,Telugu,Romantic
+49,Butta Bomma,DSP,Telugu,Calm
+50,Shape of You,Katy Perry,English,Happy
+51,Roar,Adele,English,Calm
+52,Roar,Adele,English,Sad
+53,Perfect,Taylor Swift,English,Sad
+54,Shayad,Shreya Ghoshal,Hindi,Romantic
+55,Channa Mereya,Arijit Singh,Hindi,Happy
+56,Shayad,Shreya Ghoshal,Hindi,Calm
+57,Perfect,The Weeknd,English,Calm
+58,Someone Like You,Taylor Swift,English,Romantic
+59,Apna Time Aayega,Badshah,Hindi,Romantic
+60,Perfect,Ed Sheeran,English,Sad
+61,Shape of You,Taylor Swift,English,Energetic
+62,Butta Bomma,DSP,Telugu,Calm
+63,Blinding Lights,Taylor Swift,English,Calm
+64,Kesariya,Sonu Nigam,Hindi,Romantic
+65,Srivalli,Anurag Kulkarni,Telugu,Energetic
+66,Samajavaragamana,Armaan Malik,Telugu,Sad
+67,Tum Hi Ho,Neha Kakkar,Hindi,Happy
+68,Srivalli,Shreya Ghoshal,Telugu,Calm
+69,Butta Bomma,Anurag Kulkarni,Telugu,Energetic
+70,Seeti Maar,Armaan Malik,Telugu,Romantic
+71,Perfect,Ed Sheeran,English,Happy
+72,Vachindamma,Armaan Malik,Telugu,Sad
+73,Samajavaragamana,Sid Sriram,Telugu,Calm
+74,Butta Bomma,Armaan Malik,Telugu,Happy
+75,Butta Bomma,Shreya Ghoshal,Telugu,Happy
+76,Srivalli,DSP,Telugu,Romantic
+77,Apna Time Aayega,Arijit Singh,Hindi,Energetic
+78,Shayad,Badshah,Hindi,Romantic
+79,Vachindamma,Anurag Kulkarni,Telugu,Happy
+80,Blinding Lights,The Weeknd,English,Sad
+81,Apna Time Aayega,Sonu Nigam,Hindi,Happy
+82,Apna Time Aayega,Badshah,Hindi,Energetic
+83,Seeti Maar,DSP,Telugu,Energetic
+84,Butta Bomma,Anurag Kulkarni,Telugu,Energetic
+85,Butta Bomma,DSP,Telugu,Romantic
+86,Vachindamma,DSP,Telugu,Calm
+87,Seeti Maar,Shreya Ghoshal,Telugu,Calm
+88,Someone Like You,Taylor Swift,English,Energetic
+89,Seeti Maar,DSP,Telugu,Romantic
+90,Kesariya,Badshah,Hindi,Romantic
+91,Perfect,The Weeknd,English,Romantic
+92,Roar,Taylor Swift,English,Happy
+93,Blinding Lights,The Weeknd,English,Happy
+94,Kesariya,Sonu Nigam,Hindi,Happy
+95,Tum Hi Ho,Shreya Ghoshal,Hindi,Romantic
+96,Kesariya,Sonu Nigam,Hindi,Energetic
+97,Someone Like You,Adele,English,Energetic
+98,Channa Mereya,Arijit Singh,Hindi,Energetic
+99,Shape of You,Ed Sheeran,English,Sad
+100,Kesariya,Shreya Ghoshal,Hindi,Happy
+101,Srivalli,Anurag Kulkarni,Telugu,Energetic
+102,Vachindamma,DSP,Telugu,Happy
+103,Shayad,Arijit Singh,Hindi,Energetic
+104,Apna Time Aayega,Arijit Singh,Hindi,Energetic
+105,Blinding Lights,The Weeknd,English,Calm
+106,Roar,Taylor Swift,English,Sad
+107,Apna Time Aayega,Sonu Nigam,Hindi,Happy
+108,Shape of You,Ed Sheeran,English,Sad
+109,Kesariya,Arijit Singh,Hindi,Happy
+110,Roar,The Weeknd,English,Calm
+111,Channa Mereya,Badshah,Hindi,Calm
+112,Channa Mereya,Sonu Nigam,Hindi,Sad
+113,Shayad,Sonu Nigam,Hindi,Happy
+114,Perfect,Katy Perry,English,Energetic
+115,Vachindamma,Anurag Kulkarni,Telugu,Romantic
+116,Someone Like You,Taylor Swift,English,Calm
+117,Kesariya,Sonu Nigam,Hindi,Calm
+118,Tum Hi Ho,Shreya Ghoshal,Hindi,Sad
+119,Blinding Lights,Taylor Swift,English,Happy
+120,Srivalli,Shreya Ghoshal,Telugu,Energetic
+121,Srivalli,DSP,Telugu,Energetic
+122,Butta Bomma,Sid Sriram,Telugu,Calm
+123,Srivalli,Sid Sriram,Telugu,Calm
+124,Channa Mereya,Sonu Nigam,Hindi,Sad
+125,Shayad,Shreya Ghoshal,Hindi,Calm
+126,Someone Like You,Katy Perry,English,Sad
+127,Shape of You,Adele,English,Romantic
+128,Someone Like You,Katy Perry,English,Romantic
+129,Perfect,The Weeknd,English,Energetic
+130,Channa Mereya,Arijit Singh,Hindi,Sad
+131,Someone Like You,Ed Sheeran,English,Energetic
+132,Shape of You,Adele,English,Calm
+133,Tum Hi Ho,Neha Kakkar,Hindi,Energetic
+134,Perfect,Ed Sheeran,English,Happy
+135,Channa Mereya,Shreya Ghoshal,Hindi,Energetic
+136,Shape of You,Ed Sheeran,English,Energetic
+137,Shayad,Shreya Ghoshal,Hindi,Sad
+138,Channa Mereya,Neha Kakkar,Hindi,Sad
+139,Srivalli,DSP,Telugu,Calm
+140,Vachindamma,Anurag Kulkarni,Telugu,Calm
+141,Someone Like You,Taylor Swift,English,Happy
+142,Tum Hi Ho,Sonu Nigam,Hindi,Happy
+143,Shayad,Shreya Ghoshal,Hindi,Calm
+144,Shape of You,Adele,English,Sad
+145,Shayad,Sonu Nigam,Hindi,Happy
+146,Channa Mereya,Sonu Nigam,Hindi,Sad
+147,Butta Bomma,Sid Sriram,Telugu,Happy
+148,Roar,The Weeknd,English,Happy
+149,Apna Time Aayega,Sonu Nigam,Hindi,Calm
+150,Channa Mereya,Sonu Nigam,Hindi,Sad
+151,Vachindamma,Shreya Ghoshal,Telugu,Romantic
+152,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+153,Shape of You,Adele,English,Romantic
+154,Perfect,The Weeknd,English,Happy
+155,Roar,The Weeknd,English,Sad
+156,Perfect,Taylor Swift,English,Romantic
+157,Kesariya,Arijit Singh,Hindi,Energetic
+158,Seeti Maar,Sid Sriram,Telugu,Calm
+159,Apna Time Aayega,Arijit Singh,Hindi,Happy
+160,Apna Time Aayega,Shreya Ghoshal,Hindi,Romantic
+161,Roar,Katy Perry,English,Calm
+162,Roar,Ed Sheeran,English,Happy
+163,Blinding Lights,Katy Perry,English,Energetic
+164,Roar,Adele,English,Happy
+165,Vachindamma,Armaan Malik,Telugu,Energetic
+166,Srivalli,DSP,Telugu,Romantic
+167,Vachindamma,Anurag Kulkarni,Telugu,Calm
+168,Shayad,Shreya Ghoshal,Hindi,Happy
+169,Channa Mereya,Arijit Singh,Hindi,Calm
+170,Roar,Ed Sheeran,English,Romantic
+171,Roar,Taylor Swift,English,Energetic
+172,Shape of You,Taylor Swift,English,Romantic
+173,Srivalli,Anurag Kulkarni,Telugu,Calm
+174,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+175,Someone Like You,Ed Sheeran,English,Calm
+176,Srivalli,Anurag Kulkarni,Telugu,Energetic
+177,Apna Time Aayega,Shreya Ghoshal,Hindi,Sad
+178,Channa Mereya,Neha Kakkar,Hindi,Energetic
+179,Channa Mereya,Sonu Nigam,Hindi,Energetic
+180,Roar,Adele,English,Happy
+181,Shayad,Arijit Singh,Hindi,Romantic
+182,Someone Like You,Ed Sheeran,English,Sad
+183,Samajavaragamana,Sid Sriram,Telugu,Happy
+184,Roar,The Weeknd,English,Happy
+185,Samajavaragamana,Anurag Kulkarni,Telugu,Happy
+186,Apna Time Aayega,Badshah,Hindi,Sad
+187,Seeti Maar,Anurag Kulkarni,Telugu,Happy
+188,Samajavaragamana,Armaan Malik,Telugu,Calm
+189,Blinding Lights,The Weeknd,English,Energetic
+190,Shayad,Neha Kakkar,Hindi,Happy
+191,Shape of You,The Weeknd,English,Romantic
+192,Perfect,Taylor Swift,English,Energetic
+193,Perfect,Taylor Swift,English,Calm
+194,Channa Mereya,Shreya Ghoshal,Hindi,Sad
+195,Blinding Lights,Ed Sheeran,English,Romantic
+196,Srivalli,Sid Sriram,Telugu,Happy
+197,Srivalli,DSP,Telugu,Energetic
+198,Tum Hi Ho,Shreya Ghoshal,Hindi,Romantic
+199,Blinding Lights,Ed Sheeran,English,Calm
+200,Channa Mereya,Arijit Singh,Hindi,Romantic
+201,Vachindamma,Armaan Malik,Telugu,Sad
+202,Perfect,Taylor Swift,English,Calm
+203,Butta Bomma,Anurag Kulkarni,Telugu,Romantic
+204,Shayad,Arijit Singh,Hindi,Happy
+205,Channa Mereya,Shreya Ghoshal,Hindi,Romantic
+206,Blinding Lights,Adele,English,Happy
+207,Roar,Ed Sheeran,English,Calm
+208,Roar,Taylor Swift,English,Energetic
+209,Apna Time Aayega,Shreya Ghoshal,Hindi,Energetic
+210,Samajavaragamana,DSP,Telugu,Energetic
+211,Seeti Maar,Anurag Kulkarni,Telugu,Sad
+212,Apna Time Aayega,Arijit Singh,Hindi,Romantic
+213,Someone Like You,Ed Sheeran,English,Energetic
+214,Seeti Maar,Anurag Kulkarni,Telugu,Happy
+215,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+216,Shayad,Badshah,Hindi,Sad
+217,Tum Hi Ho,Shreya Ghoshal,Hindi,Happy
+218,Samajavaragamana,Armaan Malik,Telugu,Sad
+219,Perfect,Adele,English,Romantic
+220,Someone Like You,Taylor Swift,English,Happy
+221,Someone Like You,Ed Sheeran,English,Happy
+222,Blinding Lights,Katy Perry,English,Energetic
+223,Channa Mereya,Sonu Nigam,Hindi,Energetic
+224,Channa Mereya,Arijit Singh,Hindi,Romantic
+225,Seeti Maar,Anurag Kulkarni,Telugu,Happy
+226,Tum Hi Ho,Arijit Singh,Hindi,Sad
+227,Channa Mereya,Badshah,Hindi,Sad
+228,Srivalli,Sid Sriram,Telugu,Calm
+229,Seeti Maar,Shreya Ghoshal,Telugu,Calm
+230,Channa Mereya,Badshah,Hindi,Sad
+231,Roar,The Weeknd,English,Romantic
+232,Channa Mereya,Shreya Ghoshal,Hindi,Romantic
+233,Vachindamma,Sid Sriram,Telugu,Happy
+234,Perfect,The Weeknd,English,Romantic
+235,Srivalli,Sid Sriram,Telugu,Happy
+236,Shayad,Arijit Singh,Hindi,Calm
+237,Channa Mereya,Badshah,Hindi,Romantic
+238,Someone Like You,Ed Sheeran,English,Romantic
+239,Shape of You,Taylor Swift,English,Energetic
+240,Kesariya,Shreya Ghoshal,Hindi,Energetic
+241,Blinding Lights,Katy Perry,English,Happy
+242,Someone Like You,Ed Sheeran,English,Happy
+243,Blinding Lights,Katy Perry,English,Happy
+244,Kesariya,Neha Kakkar,Hindi,Energetic
+245,Apna Time Aayega,Badshah,Hindi,Energetic
+246,Seeti Maar,Armaan Malik,Telugu,Romantic
+247,Butta Bomma,Anurag Kulkarni,Telugu,Happy
+248,Roar,Katy Perry,English,Energetic
+249,Butta Bomma,Sid Sriram,Telugu,Happy
+250,Shayad,Shreya Ghoshal,Hindi,Energetic
+251,Tum Hi Ho,Shreya Ghoshal,Hindi,Calm
+252,Someone Like You,Katy Perry,English,Happy
+253,Vachindamma,Anurag Kulkarni,Telugu,Sad
+254,Shayad,Shreya Ghoshal,Hindi,Calm
+255,Samajavaragamana,Sid Sriram,Telugu,Happy
+256,Apna Time Aayega,Sonu Nigam,Hindi,Happy
+257,Perfect,Ed Sheeran,English,Sad
+258,Samajavaragamana,DSP,Telugu,Romantic
+259,Kesariya,Arijit Singh,Hindi,Happy
+260,Someone Like You,The Weeknd,English,Happy
+261,Seeti Maar,Anurag Kulkarni,Telugu,Calm
+262,Perfect,Adele,English,Happy
+263,Srivalli,Armaan Malik,Telugu,Sad
+264,Channa Mereya,Shreya Ghoshal,Hindi,Energetic
+265,Seeti Maar,Shreya Ghoshal,Telugu,Romantic
+266,Roar,The Weeknd,English,Romantic
+267,Vachindamma,DSP,Telugu,Sad
+268,Blinding Lights,Ed Sheeran,English,Romantic
+269,Srivalli,Sid Sriram,Telugu,Romantic
+270,Channa Mereya,Shreya Ghoshal,Hindi,Calm
+271,Samajavaragamana,Sid Sriram,Telugu,Sad
+272,Apna Time Aayega,Sonu Nigam,Hindi,Energetic
+273,Kesariya,Sonu Nigam,Hindi,Sad
+274,Vachindamma,Shreya Ghoshal,Telugu,Romantic
+275,Vachindamma,DSP,Telugu,Calm
+276,Srivalli,Shreya Ghoshal,Telugu,Sad
+277,Apna Time Aayega,Badshah,Hindi,Energetic
+278,Perfect,Katy Perry,English,Happy
+279,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+280,Butta Bomma,DSP,Telugu,Energetic
+281,Blinding Lights,Taylor Swift,English,Calm
+282,Shayad,Sonu Nigam,Hindi,Calm
+283,Seeti Maar,Sid Sriram,Telugu,Calm
+284,Samajavaragamana,Anurag Kulkarni,Telugu,Romantic
+285,Vachindamma,Shreya Ghoshal,Telugu,Romantic
+286,Tum Hi Ho,Badshah,Hindi,Happy
+287,Srivalli,Anurag Kulkarni,Telugu,Calm
+288,Perfect,Ed Sheeran,English,Happy
+289,Seeti Maar,Sid Sriram,Telugu,Happy
+290,Kesariya,Badshah,Hindi,Sad
+291,Blinding Lights,Ed Sheeran,English,Romantic
+292,Srivalli,Shreya Ghoshal,Telugu,Energetic
+293,Perfect,Katy Perry,English,Calm
+294,Kesariya,Badshah,Hindi,Happy
+295,Roar,Taylor Swift,English,Happy
+296,Blinding Lights,Katy Perry,English,Happy
+297,Kesariya,Sonu Nigam,Hindi,Happy
+298,Blinding Lights,The Weeknd,English,Romantic
+299,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+300,Srivalli,Anurag Kulkarni,Telugu,Sad
+301,Shape of You,Katy Perry,English,Calm
+302,Roar,Taylor Swift,English,Sad
+303,Shape of You,The Weeknd,English,Romantic
+304,Channa Mereya,Badshah,Hindi,Sad
+305,Shayad,Badshah,Hindi,Happy
+306,Channa Mereya,Sonu Nigam,Hindi,Calm
+307,Shape of You,Taylor Swift,English,Sad
+308,Perfect,The Weeknd,English,Calm
+309,Tum Hi Ho,Neha Kakkar,Hindi,Energetic
+310,Someone Like You,Adele,English,Calm
+311,Seeti Maar,Shreya Ghoshal,Telugu,Calm
+312,Srivalli,Anurag Kulkarni,Telugu,Happy
+313,Blinding Lights,Adele,English,Energetic
+314,Seeti Maar,Shreya Ghoshal,Telugu,Energetic
+315,Shape of You,Taylor Swift,English,Romantic
+316,Perfect,Taylor Swift,English,Calm
+317,Kesariya,Arijit Singh,Hindi,Happy
+318,Tum Hi Ho,Neha Kakkar,Hindi,Sad
+319,Kesariya,Shreya Ghoshal,Hindi,Happy
+320,Butta Bomma,Shreya Ghoshal,Telugu,Happy
+321,Samajavaragamana,Armaan Malik,Telugu,Calm
+322,Blinding Lights,Taylor Swift,English,Energetic
+323,Someone Like You,Taylor Swift,English,Calm
+324,Seeti Maar,Shreya Ghoshal,Telugu,Romantic
+325,Shayad,Sonu Nigam,Hindi,Romantic
+326,Srivalli,Shreya Ghoshal,Telugu,Calm
+327,Tum Hi Ho,Shreya Ghoshal,Hindi,Romantic
+328,Kesariya,Neha Kakkar,Hindi,Calm
+329,Roar,Katy Perry,English,Sad
+330,Channa Mereya,Badshah,Hindi,Energetic
+331,Blinding Lights,Katy Perry,English,Calm
+332,Tum Hi Ho,Sonu Nigam,Hindi,Sad
+333,Vachindamma,Armaan Malik,Telugu,Energetic
+334,Shayad,Badshah,Hindi,Energetic
+335,Vachindamma,Shreya Ghoshal,Telugu,Energetic
+336,Vachindamma,DSP,Telugu,Romantic
+337,Perfect,Ed Sheeran,English,Calm
+338,Apna Time Aayega,Arijit Singh,Hindi,Calm
+339,Srivalli,Anurag Kulkarni,Telugu,Happy
+340,Roar,Katy Perry,English,Energetic
+341,Roar,Ed Sheeran,English,Sad
+342,Apna Time Aayega,Shreya Ghoshal,Hindi,Energetic
+343,Apna Time Aayega,Neha Kakkar,Hindi,Romantic
+344,Blinding Lights,Adele,English,Energetic
+345,Shayad,Neha Kakkar,Hindi,Energetic
+346,Vachindamma,Armaan Malik,Telugu,Happy
+347,Someone Like You,The Weeknd,English,Sad
+348,Vachindamma,DSP,Telugu,Happy
+349,Seeti Maar,DSP,Telugu,Happy
+350,Srivalli,Sid Sriram,Telugu,Energetic
+351,Apna Time Aayega,Arijit Singh,Hindi,Calm
+352,Shayad,Sonu Nigam,Hindi,Calm
+353,Srivalli,Sid Sriram,Telugu,Calm
+354,Seeti Maar,Armaan Malik,Telugu,Energetic
+355,Butta Bomma,DSP,Telugu,Sad
+356,Channa Mereya,Arijit Singh,Hindi,Romantic
+357,Shayad,Badshah,Hindi,Happy
+358,Tum Hi Ho,Neha Kakkar,Hindi,Energetic
+359,Tum Hi Ho,Shreya Ghoshal,Hindi,Sad
+360,Seeti Maar,DSP,Telugu,Sad
+361,Channa Mereya,Sonu Nigam,Hindi,Romantic
+362,Channa Mereya,Shreya Ghoshal,Hindi,Calm
+363,Shape of You,The Weeknd,English,Happy
+364,Someone Like You,Taylor Swift,English,Sad
+365,Butta Bomma,Anurag Kulkarni,Telugu,Calm
+366,Shape of You,Adele,English,Energetic
+367,Apna Time Aayega,Neha Kakkar,Hindi,Romantic
+368,Kesariya,Neha Kakkar,Hindi,Romantic
+369,Srivalli,Shreya Ghoshal,Telugu,Happy
+370,Apna Time Aayega,Shreya Ghoshal,Hindi,Energetic
+371,Perfect,Adele,English,Sad
+372,Someone Like You,Ed Sheeran,English,Calm
+373,Blinding Lights,Ed Sheeran,English,Calm
+374,Kesariya,Badshah,Hindi,Happy
+375,Samajavaragamana,Sid Sriram,Telugu,Energetic
+376,Roar,Adele,English,Sad
+377,Tum Hi Ho,Neha Kakkar,Hindi,Happy
+378,Blinding Lights,Ed Sheeran,English,Calm
+379,Tum Hi Ho,Badshah,Hindi,Romantic
+380,Kesariya,Arijit Singh,Hindi,Energetic
+381,Seeti Maar,Sid Sriram,Telugu,Energetic
+382,Roar,Ed Sheeran,English,Energetic
+383,Someone Like You,Ed Sheeran,English,Calm
+384,Butta Bomma,DSP,Telugu,Energetic
+385,Shayad,Arijit Singh,Hindi,Sad
+386,Channa Mereya,Badshah,Hindi,Romantic
+387,Tum Hi Ho,Sonu Nigam,Hindi,Energetic
+388,Srivalli,DSP,Telugu,Happy
+389,Blinding Lights,Katy Perry,English,Calm
+390,Perfect,The Weeknd,English,Energetic
+391,Someone Like You,The Weeknd,English,Energetic
+392,Tum Hi Ho,Neha Kakkar,Hindi,Happy
+393,Apna Time Aayega,Neha Kakkar,Hindi,Happy
+394,Blinding Lights,Katy Perry,English,Romantic
+395,Apna Time Aayega,Sonu Nigam,Hindi,Sad
+396,Tum Hi Ho,Sonu Nigam,Hindi,Happy
+397,Shayad,Neha Kakkar,Hindi,Energetic
+398,Shayad,Badshah,Hindi,Sad
+399,Perfect,Ed Sheeran,English,Energetic
+400,Shayad,Shreya Ghoshal,Hindi,Energetic
+401,Butta Bomma,Anurag Kulkarni,Telugu,Sad
+402,Apna Time Aayega,Badshah,Hindi,Romantic
+403,Channa Mereya,Shreya Ghoshal,Hindi,Happy
+404,Seeti Maar,Armaan Malik,Telugu,Sad
+405,Srivalli,Shreya Ghoshal,Telugu,Energetic
+406,Shape of You,Taylor Swift,English,Energetic
+407,Samajavaragamana,DSP,Telugu,Romantic
+408,Blinding Lights,The Weeknd,English,Calm
+409,Shape of You,Katy Perry,English,Romantic
+410,Vachindamma,Anurag Kulkarni,Telugu,Sad
+411,Seeti Maar,Shreya Ghoshal,Telugu,Romantic
+412,Someone Like You,Adele,English,Calm
+413,Someone Like You,Katy Perry,English,Calm
+414,Perfect,Katy Perry,English,Happy
+415,Apna Time Aayega,Arijit Singh,Hindi,Energetic
+416,Vachindamma,Anurag Kulkarni,Telugu,Sad
+417,Samajavaragamana,Anurag Kulkarni,Telugu,Happy
+418,Shape of You,The Weeknd,English,Energetic
+419,Channa Mereya,Badshah,Hindi,Calm
+420,Vachindamma,Anurag Kulkarni,Telugu,Energetic
+421,Shape of You,Adele,English,Sad
+422,Channa Mereya,Shreya Ghoshal,Hindi,Romantic
+423,Srivalli,Armaan Malik,Telugu,Romantic
+424,Butta Bomma,Sid Sriram,Telugu,Calm
+425,Srivalli,Anurag Kulkarni,Telugu,Happy
+426,Roar,The Weeknd,English,Sad
+427,Shape of You,The Weeknd,English,Energetic
+428,Srivalli,Sid Sriram,Telugu,Romantic
+429,Channa Mereya,Arijit Singh,Hindi,Happy
+430,Butta Bomma,Anurag Kulkarni,Telugu,Energetic
+431,Channa Mereya,Sonu Nigam,Hindi,Energetic
+432,Channa Mereya,Shreya Ghoshal,Hindi,Romantic
+433,Shape of You,The Weeknd,English,Energetic
+434,Blinding Lights,The Weeknd,English,Happy
+435,Samajavaragamana,Shreya Ghoshal,Telugu,Energetic
+436,Kesariya,Sonu Nigam,Hindi,Energetic
+437,Shayad,Neha Kakkar,Hindi,Sad
+438,Seeti Maar,Anurag Kulkarni,Telugu,Romantic
+439,Shape of You,Taylor Swift,English,Sad
+440,Blinding Lights,The Weeknd,English,Romantic
+441,Someone Like You,Ed Sheeran,English,Romantic
+442,Seeti Maar,Shreya Ghoshal,Telugu,Energetic
+443,Roar,The Weeknd,English,Energetic
+444,Srivalli,DSP,Telugu,Romantic
+445,Vachindamma,DSP,Telugu,Happy
+446,Tum Hi Ho,Arijit Singh,Hindi,Sad
+447,Someone Like You,The Weeknd,English,Energetic
+448,Srivalli,Anurag Kulkarni,Telugu,Energetic
+449,Shayad,Sonu Nigam,Hindi,Happy
+450,Seeti Maar,Sid Sriram,Telugu,Energetic
+451,Shape of You,Taylor Swift,English,Happy
+452,Apna Time Aayega,Badshah,Hindi,Sad
+453,Channa Mereya,Sonu Nigam,Hindi,Calm
+454,Shape of You,The Weeknd,English,Romantic
+455,Blinding Lights,Ed Sheeran,English,Happy
+456,Seeti Maar,Anurag Kulkarni,Telugu,Energetic
+457,Channa Mereya,Arijit Singh,Hindi,Sad
+458,Kesariya,Shreya Ghoshal,Hindi,Energetic
+459,Shayad,Neha Kakkar,Hindi,Calm
+460,Perfect,Adele,English,Romantic
+461,Shape of You,Katy Perry,English,Happy
+462,Blinding Lights,Ed Sheeran,English,Calm
+463,Tum Hi Ho,Neha Kakkar,Hindi,Romantic
+464,Apna Time Aayega,Arijit Singh,Hindi,Romantic
+465,Shayad,Sonu Nigam,Hindi,Sad
+466,Someone Like You,Taylor Swift,English,Romantic
+467,Apna Time Aayega,Sonu Nigam,Hindi,Sad
+468,Shayad,Sonu Nigam,Hindi,Happy
+469,Samajavaragamana,Armaan Malik,Telugu,Energetic
+470,Srivalli,DSP,Telugu,Happy
+471,Srivalli,Sid Sriram,Telugu,Sad
+472,Samajavaragamana,Sid Sriram,Telugu,Sad
+473,Roar,Taylor Swift,English,Happy
+474,Shape of You,Katy Perry,English,Sad
+475,Kesariya,Neha Kakkar,Hindi,Happy
+476,Channa Mereya,Neha Kakkar,Hindi,Sad
+477,Roar,Taylor Swift,English,Sad
+478,Channa Mereya,Shreya Ghoshal,Hindi,Energetic
+479,Srivalli,Shreya Ghoshal,Telugu,Sad
+480,Tum Hi Ho,Shreya Ghoshal,Hindi,Calm
+481,Vachindamma,Armaan Malik,Telugu,Happy
+482,Samajavaragamana,Anurag Kulkarni,Telugu,Sad
+483,Blinding Lights,Katy Perry,English,Happy
+484,Butta Bomma,Anurag Kulkarni,Telugu,Energetic
+485,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+486,Samajavaragamana,Sid Sriram,Telugu,Energetic
+487,Kesariya,Badshah,Hindi,Calm
+488,Samajavaragamana,DSP,Telugu,Happy
+489,Apna Time Aayega,Badshah,Hindi,Energetic
+490,Roar,The Weeknd,English,Happy
+491,Someone Like You,Adele,English,Energetic
+492,Shape of You,The Weeknd,English,Calm
+493,Seeti Maar,Sid Sriram,Telugu,Sad
+494,Srivalli,DSP,Telugu,Energetic
+495,Channa Mereya,Badshah,Hindi,Happy
+496,Channa Mereya,Arijit Singh,Hindi,Romantic
+497,Shape of You,The Weeknd,English,Sad
+498,Samajavaragamana,Armaan Malik,Telugu,Romantic
+499,Someone Like You,Katy Perry,English,Romantic
+500,Perfect,The Weeknd,English,Energetic
+501,Shayad,Shreya Ghoshal,Hindi,Sad
+502,Kesariya,Sonu Nigam,Hindi,Calm
+503,Perfect,Katy Perry,English,Calm
+504,Someone Like You,Katy Perry,English,Happy
+505,Kesariya,Badshah,Hindi,Romantic
+506,Kesariya,Shreya Ghoshal,Hindi,Energetic
+507,Kesariya,Arijit Singh,Hindi,Calm
+508,Shayad,Sonu Nigam,Hindi,Romantic
+509,Roar,Katy Perry,English,Calm
+510,Apna Time Aayega,Arijit Singh,Hindi,Calm
+511,Someone Like You,Taylor Swift,English,Happy
+512,Seeti Maar,Sid Sriram,Telugu,Calm
+513,Channa Mereya,Arijit Singh,Hindi,Happy
+514,Perfect,Taylor Swift,English,Happy
+515,Channa Mereya,Arijit Singh,Hindi,Energetic
+516,Channa Mereya,Neha Kakkar,Hindi,Energetic
+517,Seeti Maar,Armaan Malik,Telugu,Romantic
+518,Samajavaragamana,Shreya Ghoshal,Telugu,Sad
+519,Perfect,Ed Sheeran,English,Energetic
+520,Vachindamma,Shreya Ghoshal,Telugu,Calm
+521,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+522,Shayad,Sonu Nigam,Hindi,Energetic
+523,Apna Time Aayega,Arijit Singh,Hindi,Happy
+524,Kesariya,Arijit Singh,Hindi,Romantic
+525,Butta Bomma,DSP,Telugu,Sad
+526,Shayad,Sonu Nigam,Hindi,Calm
+527,Seeti Maar,Armaan Malik,Telugu,Calm
+528,Apna Time Aayega,Arijit Singh,Hindi,Calm
+529,Kesariya,Arijit Singh,Hindi,Energetic
+530,Samajavaragamana,Sid Sriram,Telugu,Energetic
+531,Someone Like You,Taylor Swift,English,Romantic
+532,Blinding Lights,Taylor Swift,English,Happy
+533,Vachindamma,DSP,Telugu,Energetic
+534,Vachindamma,Armaan Malik,Telugu,Energetic
+535,Apna Time Aayega,Badshah,Hindi,Happy
+536,Seeti Maar,Anurag Kulkarni,Telugu,Romantic
+537,Seeti Maar,Shreya Ghoshal,Telugu,Calm
+538,Blinding Lights,The Weeknd,English,Happy
+539,Perfect,Ed Sheeran,English,Romantic
+540,Srivalli,DSP,Telugu,Sad
+541,Roar,Adele,English,Calm
+542,Tum Hi Ho,Sonu Nigam,Hindi,Energetic
+543,Vachindamma,Armaan Malik,Telugu,Sad
+544,Blinding Lights,Taylor Swift,English,Calm
+545,Perfect,The Weeknd,English,Energetic
+546,Blinding Lights,The Weeknd,English,Happy
+547,Perfect,Taylor Swift,English,Romantic
+548,Vachindamma,DSP,Telugu,Energetic
+549,Tum Hi Ho,Arijit Singh,Hindi,Happy
+550,Roar,The Weeknd,English,Energetic
+551,Shayad,Arijit Singh,Hindi,Romantic
+552,Apna Time Aayega,Badshah,Hindi,Calm
+553,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+554,Kesariya,Badshah,Hindi,Energetic
+555,Srivalli,Armaan Malik,Telugu,Sad
+556,Apna Time Aayega,Neha Kakkar,Hindi,Happy
+557,Blinding Lights,Katy Perry,English,Happy
+558,Shayad,Shreya Ghoshal,Hindi,Romantic
+559,Blinding Lights,Taylor Swift,English,Romantic
+560,Apna Time Aayega,Badshah,Hindi,Romantic
+561,Vachindamma,Anurag Kulkarni,Telugu,Sad
+562,Roar,Adele,English,Sad
+563,Srivalli,Sid Sriram,Telugu,Calm
+564,Blinding Lights,Ed Sheeran,English,Happy
+565,Shape of You,The Weeknd,English,Romantic
+566,Butta Bomma,Armaan Malik,Telugu,Sad
+567,Someone Like You,Katy Perry,English,Happy
+568,Shayad,Shreya Ghoshal,Hindi,Romantic
+569,Vachindamma,DSP,Telugu,Energetic
+570,Someone Like You,The Weeknd,English,Happy
+571,Tum Hi Ho,Arijit Singh,Hindi,Happy
+572,Samajavaragamana,DSP,Telugu,Energetic
+573,Blinding Lights,Adele,English,Happy
+574,Shape of You,Adele,English,Sad
+575,Samajavaragamana,Sid Sriram,Telugu,Energetic
+576,Blinding Lights,Adele,English,Energetic
+577,Perfect,The Weeknd,English,Calm
+578,Seeti Maar,Shreya Ghoshal,Telugu,Romantic
+579,Seeti Maar,Anurag Kulkarni,Telugu,Sad
+580,Vachindamma,Anurag Kulkarni,Telugu,Romantic
+581,Perfect,The Weeknd,English,Happy
+582,Apna Time Aayega,Neha Kakkar,Hindi,Romantic
+583,Blinding Lights,Adele,English,Sad
+584,Butta Bomma,Anurag Kulkarni,Telugu,Calm
+585,Kesariya,Arijit Singh,Hindi,Happy
+586,Shayad,Shreya Ghoshal,Hindi,Romantic
+587,Tum Hi Ho,Arijit Singh,Hindi,Happy
+588,Vachindamma,Armaan Malik,Telugu,Happy
+589,Someone Like You,The Weeknd,English,Energetic
+590,Butta Bomma,DSP,Telugu,Happy
+591,Kesariya,Arijit Singh,Hindi,Energetic
+592,Channa Mereya,Arijit Singh,Hindi,Romantic
+593,Shayad,Neha Kakkar,Hindi,Happy
+594,Seeti Maar,Shreya Ghoshal,Telugu,Calm
+595,Srivalli,Shreya Ghoshal,Telugu,Calm
+596,Shayad,Arijit Singh,Hindi,Energetic
+597,Kesariya,Arijit Singh,Hindi,Romantic
+598,Vachindamma,Armaan Malik,Telugu,Calm
+599,Someone Like You,Adele,English,Happy
+600,Someone Like You,Adele,English,Romantic
+601,Srivalli,Anurag Kulkarni,Telugu,Happy
+602,Samajavaragamana,Shreya Ghoshal,Telugu,Sad
+603,Shape of You,The Weeknd,English,Happy
+604,Samajavaragamana,Armaan Malik,Telugu,Sad
+605,Shayad,Sonu Nigam,Hindi,Happy
+606,Perfect,Ed Sheeran,English,Sad
+607,Apna Time Aayega,Shreya Ghoshal,Hindi,Calm
+608,Perfect,The Weeknd,English,Calm
+609,Shape of You,Taylor Swift,English,Sad
+610,Shayad,Shreya Ghoshal,Hindi,Happy
+611,Samajavaragamana,Shreya Ghoshal,Telugu,Energetic
+612,Channa Mereya,Badshah,Hindi,Sad
+613,Blinding Lights,Katy Perry,English,Calm
+614,Roar,The Weeknd,English,Happy
+615,Shayad,Shreya Ghoshal,Hindi,Sad
+616,Someone Like You,Adele,English,Sad
+617,Samajavaragamana,Shreya Ghoshal,Telugu,Romantic
+618,Roar,Taylor Swift,English,Romantic
+619,Vachindamma,DSP,Telugu,Happy
+620,Roar,The Weeknd,English,Sad
+621,Tum Hi Ho,Arijit Singh,Hindi,Energetic
+622,Srivalli,Anurag Kulkarni,Telugu,Calm
+623,Vachindamma,DSP,Telugu,Sad
+624,Tum Hi Ho,Sonu Nigam,Hindi,Energetic
+625,Shayad,Arijit Singh,Hindi,Romantic
+626,Srivalli,Sid Sriram,Telugu,Energetic
+627,Blinding Lights,Taylor Swift,English,Happy
+628,Perfect,Adele,English,Sad
+629,Channa Mereya,Arijit Singh,Hindi,Romantic
+630,Kesariya,Shreya Ghoshal,Hindi,Happy
+631,Shape of You,Katy Perry,English,Romantic
+632,Srivalli,DSP,Telugu,Happy
+633,Perfect,The Weeknd,English,Happy
+634,Tum Hi Ho,Neha Kakkar,Hindi,Romantic
+635,Shape of You,Adele,English,Happy
+636,Srivalli,DSP,Telugu,Energetic
+637,Srivalli,DSP,Telugu,Sad
+638,Blinding Lights,Adele,English,Energetic
+639,Tum Hi Ho,Arijit Singh,Hindi,Calm
+640,Kesariya,Neha Kakkar,Hindi,Happy
+641,Blinding Lights,Taylor Swift,English,Calm
+642,Someone Like You,Katy Perry,English,Romantic
+643,Vachindamma,Anurag Kulkarni,Telugu,Romantic
+644,Shape of You,Taylor Swift,English,Happy
+645,Samajavaragamana,Shreya Ghoshal,Telugu,Romantic
+646,Samajavaragamana,Shreya Ghoshal,Telugu,Energetic
+647,Butta Bomma,DSP,Telugu,Energetic
+648,Someone Like You,Ed Sheeran,English,Energetic
+649,Srivalli,Armaan Malik,Telugu,Happy
+650,Samajavaragamana,DSP,Telugu,Romantic
+651,Srivalli,Sid Sriram,Telugu,Calm
+652,Roar,Adele,English,Romantic
+653,Roar,The Weeknd,English,Sad
+654,Shape of You,The Weeknd,English,Sad
+655,Blinding Lights,The Weeknd,English,Sad
+656,Blinding Lights,Taylor Swift,English,Energetic
+657,Blinding Lights,Taylor Swift,English,Calm
+658,Vachindamma,Sid Sriram,Telugu,Energetic
+659,Shayad,Neha Kakkar,Hindi,Happy
+660,Seeti Maar,Armaan Malik,Telugu,Romantic
+661,Samajavaragamana,Shreya Ghoshal,Telugu,Happy
+662,Vachindamma,Sid Sriram,Telugu,Energetic
+663,Seeti Maar,Shreya Ghoshal,Telugu,Sad
+664,Roar,Katy Perry,English,Energetic
+665,Vachindamma,Anurag Kulkarni,Telugu,Sad
+666,Someone Like You,Katy Perry,English,Romantic
+667,Perfect,The Weeknd,English,Calm
+668,Shape of You,Adele,English,Sad
+669,Channa Mereya,Neha Kakkar,Hindi,Sad
+670,Kesariya,Arijit Singh,Hindi,Romantic
+671,Apna Time Aayega,Badshah,Hindi,Energetic
+672,Shape of You,Taylor Swift,English,Energetic
+673,Samajavaragamana,Sid Sriram,Telugu,Happy
+674,Perfect,Ed Sheeran,English,Sad
+675,Perfect,Ed Sheeran,English,Romantic
+676,Blinding Lights,Adele,English,Calm
+677,Srivalli,Shreya Ghoshal,Telugu,Energetic
+678,Perfect,Ed Sheeran,English,Sad
+679,Samajavaragamana,Sid Sriram,Telugu,Energetic
+680,Tum Hi Ho,Arijit Singh,Hindi,Energetic
+681,Shape of You,Taylor Swift,English,Energetic
+682,Seeti Maar,Shreya Ghoshal,Telugu,Romantic
+683,Samajavaragamana,Armaan Malik,Telugu,Energetic
+684,Kesariya,Badshah,Hindi,Sad
+685,Seeti Maar,Armaan Malik,Telugu,Happy
+686,Shayad,Neha Kakkar,Hindi,Romantic
+687,Butta Bomma,Sid Sriram,Telugu,Happy
+688,Vachindamma,Sid Sriram,Telugu,Happy
+689,Srivalli,DSP,Telugu,Romantic
+690,Blinding Lights,Adele,English,Happy
+691,Perfect,Adele,English,Calm
+692,Shayad,Shreya Ghoshal,Hindi,Calm
+693,Vachindamma,Sid Sriram,Telugu,Sad
+694,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+695,Perfect,Ed Sheeran,English,Sad
+696,Channa Mereya,Arijit Singh,Hindi,Happy
+697,Kesariya,Sonu Nigam,Hindi,Calm
+698,Kesariya,Shreya Ghoshal,Hindi,Romantic
+699,Apna Time Aayega,Neha Kakkar,Hindi,Romantic
+700,Seeti Maar,DSP,Telugu,Energetic
+701,Channa Mereya,Arijit Singh,Hindi,Calm
+702,Blinding Lights,Katy Perry,English,Energetic
+703,Samajavaragamana,Anurag Kulkarni,Telugu,Romantic
+704,Shape of You,The Weeknd,English,Calm
+705,Roar,Taylor Swift,English,Romantic
+706,Seeti Maar,Sid Sriram,Telugu,Energetic
+707,Channa Mereya,Arijit Singh,Hindi,Calm
+708,Kesariya,Arijit Singh,Hindi,Calm
+709,Apna Time Aayega,Arijit Singh,Hindi,Sad
+710,Srivalli,DSP,Telugu,Calm
+711,Vachindamma,Armaan Malik,Telugu,Energetic
+712,Shayad,Badshah,Hindi,Sad
+713,Butta Bomma,Sid Sriram,Telugu,Calm
+714,Kesariya,Neha Kakkar,Hindi,Happy
+715,Perfect,Taylor Swift,English,Happy
+716,Kesariya,Neha Kakkar,Hindi,Energetic
+717,Perfect,Taylor Swift,English,Energetic
+718,Vachindamma,Shreya Ghoshal,Telugu,Happy
+719,Vachindamma,Sid Sriram,Telugu,Romantic
+720,Blinding Lights,Taylor Swift,English,Sad
+721,Someone Like You,Adele,English,Energetic
+722,Shayad,Sonu Nigam,Hindi,Calm
+723,Kesariya,Shreya Ghoshal,Hindi,Energetic
+724,Shape of You,Adele,English,Energetic
+725,Butta Bomma,Shreya Ghoshal,Telugu,Romantic
+726,Kesariya,Sonu Nigam,Hindi,Sad
+727,Butta Bomma,Armaan Malik,Telugu,Happy
+728,Vachindamma,DSP,Telugu,Energetic
+729,Vachindamma,DSP,Telugu,Calm
+730,Kesariya,Arijit Singh,Hindi,Calm
+731,Shape of You,Katy Perry,English,Calm
+732,Shape of You,Adele,English,Sad
+733,Apna Time Aayega,Arijit Singh,Hindi,Energetic
+734,Srivalli,Anurag Kulkarni,Telugu,Sad
+735,Srivalli,Sid Sriram,Telugu,Happy
+736,Someone Like You,Taylor Swift,English,Happy
+737,Someone Like You,Taylor Swift,English,Sad
+738,Blinding Lights,Adele,English,Calm
+739,Srivalli,DSP,Telugu,Sad
+740,Blinding Lights,Adele,English,Sad
+741,Apna Time Aayega,Arijit Singh,Hindi,Happy
+742,Samajavaragamana,Sid Sriram,Telugu,Sad
+743,Blinding Lights,Taylor Swift,English,Energetic
+744,Channa Mereya,Sonu Nigam,Hindi,Calm
+745,Apna Time Aayega,Shreya Ghoshal,Hindi,Romantic
+746,Apna Time Aayega,Sonu Nigam,Hindi,Energetic
+747,Channa Mereya,Sonu Nigam,Hindi,Romantic
+748,Kesariya,Arijit Singh,Hindi,Energetic
+749,Samajavaragamana,Shreya Ghoshal,Telugu,Sad
+750,Shayad,Arijit Singh,Hindi,Happy
+751,Someone Like You,Katy Perry,English,Sad
+752,Kesariya,Shreya Ghoshal,Hindi,Romantic
+753,Apna Time Aayega,Sonu Nigam,Hindi,Happy
+754,Butta Bomma,Armaan Malik,Telugu,Romantic
+755,Seeti Maar,Sid Sriram,Telugu,Happy
+756,Shape of You,Taylor Swift,English,Sad
+757,Roar,The Weeknd,English,Happy
+758,Blinding Lights,The Weeknd,English,Sad
+759,Blinding Lights,The Weeknd,English,Romantic
+760,Someone Like You,Adele,English,Sad
+761,Someone Like You,The Weeknd,English,Romantic
+762,Shayad,Shreya Ghoshal,Hindi,Happy
+763,Shape of You,Taylor Swift,English,Sad
+764,Shayad,Badshah,Hindi,Calm
+765,Blinding Lights,Katy Perry,English,Romantic
+766,Roar,Ed Sheeran,English,Happy
+767,Samajavaragamana,DSP,Telugu,Sad
+768,Roar,Katy Perry,English,Romantic
+769,Vachindamma,Sid Sriram,Telugu,Happy
+770,Srivalli,Armaan Malik,Telugu,Calm
+771,Samajavaragamana,DSP,Telugu,Sad
+772,Channa Mereya,Shreya Ghoshal,Hindi,Happy
+773,Blinding Lights,The Weeknd,English,Calm
+774,Srivalli,Anurag Kulkarni,Telugu,Calm
+775,Samajavaragamana,Armaan Malik,Telugu,Sad
+776,Shayad,Arijit Singh,Hindi,Romantic
+777,Roar,Adele,English,Calm
+778,Blinding Lights,Ed Sheeran,English,Energetic
+779,Blinding Lights,Ed Sheeran,English,Energetic
+780,Perfect,Katy Perry,English,Romantic
+781,Roar,Taylor Swift,English,Happy
+782,Perfect,Adele,English,Sad
+783,Tum Hi Ho,Badshah,Hindi,Happy
+784,Someone Like You,Adele,English,Happy
+785,Vachindamma,DSP,Telugu,Energetic
+786,Shape of You,Taylor Swift,English,Calm
+787,Shape of You,The Weeknd,English,Romantic
+788,Channa Mereya,Arijit Singh,Hindi,Energetic
+789,Shape of You,Katy Perry,English,Energetic
+790,Srivalli,Anurag Kulkarni,Telugu,Sad
+791,Butta Bomma,Anurag Kulkarni,Telugu,Romantic
+792,Someone Like You,The Weeknd,English,Energetic
+793,Seeti Maar,Sid Sriram,Telugu,Romantic
+794,Samajavaragamana,DSP,Telugu,Calm
+795,Seeti Maar,Anurag Kulkarni,Telugu,Calm
+796,Apna Time Aayega,Neha Kakkar,Hindi,Calm
+797,Srivalli,Anurag Kulkarni,Telugu,Sad
+798,Srivalli,Shreya Ghoshal,Telugu,Romantic
+799,Blinding Lights,Taylor Swift,English,Calm
+800,Seeti Maar,Armaan Malik,Telugu,Happy
+801,Perfect,Adele,English,Romantic
+802,Srivalli,Anurag Kulkarni,Telugu,Calm
+803,Srivalli,Shreya Ghoshal,Telugu,Energetic
+804,Vachindamma,Shreya Ghoshal,Telugu,Romantic
+805,Apna Time Aayega,Badshah,Hindi,Energetic
+806,Roar,Ed Sheeran,English,Romantic
+807,Perfect,Taylor Swift,English,Calm
+808,Someone Like You,Taylor Swift,English,Energetic
+809,Seeti Maar,Sid Sriram,Telugu,Happy
+810,Butta Bomma,Sid Sriram,Telugu,Sad
+811,Roar,Taylor Swift,English,Romantic
+812,Channa Mereya,Sonu Nigam,Hindi,Calm
+813,Apna Time Aayega,Badshah,Hindi,Energetic
+814,Srivalli,DSP,Telugu,Calm
+815,Samajavaragamana,Sid Sriram,Telugu,Calm
+816,Tum Hi Ho,Neha Kakkar,Hindi,Romantic
+817,Tum Hi Ho,Shreya Ghoshal,Hindi,Calm
+818,Tum Hi Ho,Shreya Ghoshal,Hindi,Energetic
+819,Roar,Taylor Swift,English,Sad
+820,Perfect,Katy Perry,English,Calm
+821,Shayad,Neha Kakkar,Hindi,Sad
+822,Channa Mereya,Sonu Nigam,Hindi,Sad
+823,Shape of You,Katy Perry,English,Happy
+824,Srivalli,DSP,Telugu,Happy
+825,Apna Time Aayega,Shreya Ghoshal,Hindi,Sad
+826,Vachindamma,Shreya Ghoshal,Telugu,Happy
+827,Srivalli,Armaan Malik,Telugu,Romantic
+828,Vachindamma,Sid Sriram,Telugu,Sad
+829,Tum Hi Ho,Sonu Nigam,Hindi,Romantic
+830,Perfect,The Weeknd,English,Sad
+831,Shape of You,Katy Perry,English,Calm
+832,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+833,Shape of You,The Weeknd,English,Happy
+834,Channa Mereya,Sonu Nigam,Hindi,Calm
+835,Srivalli,Anurag Kulkarni,Telugu,Calm
+836,Kesariya,Sonu Nigam,Hindi,Romantic
+837,Samajavaragamana,DSP,Telugu,Romantic
+838,Someone Like You,Ed Sheeran,English,Calm
+839,Seeti Maar,Armaan Malik,Telugu,Happy
+840,Vachindamma,Sid Sriram,Telugu,Calm
+841,Samajavaragamana,Anurag Kulkarni,Telugu,Energetic
+842,Blinding Lights,Taylor Swift,English,Sad
+843,Perfect,The Weeknd,English,Happy
+844,Tum Hi Ho,Shreya Ghoshal,Hindi,Romantic
+845,Seeti Maar,Anurag Kulkarni,Telugu,Romantic
+846,Srivalli,Shreya Ghoshal,Telugu,Calm
+847,Channa Mereya,Badshah,Hindi,Sad
+848,Apna Time Aayega,Shreya Ghoshal,Hindi,Energetic
+849,Vachindamma,Armaan Malik,Telugu,Calm
+850,Seeti Maar,Shreya Ghoshal,Telugu,Sad
+851,Shape of You,Katy Perry,English,Calm
+852,Blinding Lights,Katy Perry,English,Energetic
+853,Channa Mereya,Badshah,Hindi,Romantic
+854,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+855,Seeti Maar,Armaan Malik,Telugu,Romantic
+856,Blinding Lights,Adele,English,Sad
+857,Srivalli,Anurag Kulkarni,Telugu,Energetic
+858,Shape of You,Ed Sheeran,English,Energetic
+859,Samajavaragamana,DSP,Telugu,Calm
+860,Blinding Lights,Taylor Swift,English,Happy
+861,Someone Like You,Adele,English,Romantic
+862,Apna Time Aayega,Shreya Ghoshal,Hindi,Happy
+863,Apna Time Aayega,Arijit Singh,Hindi,Calm
+864,Tum Hi Ho,Sonu Nigam,Hindi,Sad
+865,Perfect,Katy Perry,English,Romantic
+866,Blinding Lights,Taylor Swift,English,Sad
+867,Vachindamma,Armaan Malik,Telugu,Energetic
+868,Tum Hi Ho,Neha Kakkar,Hindi,Happy
+869,Someone Like You,Adele,English,Energetic
+870,Perfect,Katy Perry,English,Romantic
+871,Channa Mereya,Sonu Nigam,Hindi,Happy
+872,Perfect,The Weeknd,English,Energetic
+873,Perfect,Taylor Swift,English,Happy
+874,Tum Hi Ho,Neha Kakkar,Hindi,Happy
+875,Shayad,Badshah,Hindi,Happy
+876,Tum Hi Ho,Sonu Nigam,Hindi,Romantic
+877,Srivalli,Shreya Ghoshal,Telugu,Romantic
+878,Samajavaragamana,Sid Sriram,Telugu,Energetic
+879,Shape of You,Katy Perry,English,Happy
+880,Vachindamma,Sid Sriram,Telugu,Sad
+881,Someone Like You,The Weeknd,English,Happy
+882,Vachindamma,Armaan Malik,Telugu,Sad
+883,Perfect,Ed Sheeran,English,Happy
+884,Shape of You,The Weeknd,English,Happy
+885,Shayad,Neha Kakkar,Hindi,Calm
+886,Blinding Lights,The Weeknd,English,Calm
+887,Samajavaragamana,Anurag Kulkarni,Telugu,Happy
+888,Tum Hi Ho,Badshah,Hindi,Energetic
+889,Srivalli,Anurag Kulkarni,Telugu,Energetic
+890,Someone Like You,Katy Perry,English,Sad
+891,Someone Like You,The Weeknd,English,Calm
+892,Someone Like You,Ed Sheeran,English,Sad
+893,Blinding Lights,Ed Sheeran,English,Calm
+894,Roar,The Weeknd,English,Energetic
+895,Blinding Lights,Ed Sheeran,English,Energetic
+896,Blinding Lights,The Weeknd,English,Energetic
+897,Seeti Maar,Armaan Malik,Telugu,Calm
+898,Seeti Maar,Armaan Malik,Telugu,Energetic
+899,Srivalli,Shreya Ghoshal,Telugu,Calm
+900,Samajavaragamana,DSP,Telugu,Calm
+901,Perfect,Taylor Swift,English,Energetic
+902,Roar,Ed Sheeran,English,Happy
+903,Shayad,Shreya Ghoshal,Hindi,Romantic
+904,Kesariya,Sonu Nigam,Hindi,Calm
+905,Perfect,Katy Perry,English,Happy
+906,Shayad,Badshah,Hindi,Happy
+907,Kesariya,Shreya Ghoshal,Hindi,Sad
+908,Apna Time Aayega,Shreya Ghoshal,Hindi,Happy
+909,Butta Bomma,Armaan Malik,Telugu,Calm
+910,Srivalli,DSP,Telugu,Romantic
+911,Blinding Lights,The Weeknd,English,Calm
+912,Blinding Lights,The Weeknd,English,Energetic
+913,Butta Bomma,Shreya Ghoshal,Telugu,Romantic
+914,Vachindamma,DSP,Telugu,Happy
+915,Channa Mereya,Sonu Nigam,Hindi,Energetic
+916,Apna Time Aayega,Badshah,Hindi,Happy
+917,Apna Time Aayega,Neha Kakkar,Hindi,Sad
+918,Apna Time Aayega,Arijit Singh,Hindi,Happy
+919,Seeti Maar,Shreya Ghoshal,Telugu,Energetic
+920,Tum Hi Ho,Sonu Nigam,Hindi,Sad
+921,Seeti Maar,Anurag Kulkarni,Telugu,Calm
+922,Blinding Lights,Taylor Swift,English,Romantic
+923,Shayad,Badshah,Hindi,Energetic
+924,Someone Like You,Katy Perry,English,Calm
+925,Roar,Katy Perry,English,Romantic
+926,Shape of You,Taylor Swift,English,Energetic
+927,Samajavaragamana,Shreya Ghoshal,Telugu,Energetic
+928,Butta Bomma,Shreya Ghoshal,Telugu,Calm
+929,Tum Hi Ho,Arijit Singh,Hindi,Romantic
+930,Shape of You,Ed Sheeran,English,Energetic
+931,Butta Bomma,Shreya Ghoshal,Telugu,Happy
+932,Tum Hi Ho,Sonu Nigam,Hindi,Romantic
+933,Blinding Lights,The Weeknd,English,Sad
+934,Vachindamma,Armaan Malik,Telugu,Energetic
+935,Perfect,Adele,English,Calm
+936,Tum Hi Ho,Neha Kakkar,Hindi,Romantic
+937,Roar,Ed Sheeran,English,Romantic
+938,Vachindamma,Armaan Malik,Telugu,Sad
+939,Perfect,The Weeknd,English,Happy
+940,Kesariya,Neha Kakkar,Hindi,Romantic
+941,Vachindamma,Anurag Kulkarni,Telugu,Energetic
+942,Apna Time Aayega,Neha Kakkar,Hindi,Calm
+943,Srivalli,Shreya Ghoshal,Telugu,Romantic
+944,Roar,Ed Sheeran,English,Romantic
+945,Kesariya,Neha Kakkar,Hindi,Energetic
+946,Apna Time Aayega,Arijit Singh,Hindi,Energetic
+947,Roar,Adele,English,Sad
+948,Someone Like You,Taylor Swift,English,Happy
+949,Blinding Lights,Ed Sheeran,English,Calm
+950,Tum Hi Ho,Badshah,Hindi,Calm
+951,Vachindamma,Armaan Malik,Telugu,Romantic
+952,Samajavaragamana,Anurag Kulkarni,Telugu,Romantic
+953,Tum Hi Ho,Badshah,Hindi,Happy
+954,Roar,Ed Sheeran,English,Romantic
+955,Channa Mereya,Sonu Nigam,Hindi,Happy
+956,Tum Hi Ho,Sonu Nigam,Hindi,Energetic
+957,Kesariya,Neha Kakkar,Hindi,Energetic
+958,Tum Hi Ho,Badshah,Hindi,Happy
+959,Vachindamma,DSP,Telugu,Sad
+960,Apna Time Aayega,Badshah,Hindi,Energetic
+961,Srivalli,Sid Sriram,Telugu,Calm
+962,Seeti Maar,Sid Sriram,Telugu,Romantic
+963,Someone Like You,The Weeknd,English,Sad
+964,Blinding Lights,Ed Sheeran,English,Energetic
+965,Kesariya,Badshah,Hindi,Romantic
+966,Blinding Lights,Katy Perry,English,Romantic
+967,Srivalli,DSP,Telugu,Happy
+968,Vachindamma,Sid Sriram,Telugu,Romantic
+969,Kesariya,Arijit Singh,Hindi,Calm
+970,Shape of You,The Weeknd,English,Sad
+971,Someone Like You,The Weeknd,English,Energetic
+972,Someone Like You,The Weeknd,English,Romantic
+973,Shayad,Sonu Nigam,Hindi,Romantic
+974,Tum Hi Ho,Arijit Singh,Hindi,Energetic
+975,Shape of You,Adele,English,Sad
+976,Shayad,Neha Kakkar,Hindi,Energetic
+977,Seeti Maar,DSP,Telugu,Calm
+978,Samajavaragamana,Shreya Ghoshal,Telugu,Sad
+979,Perfect,The Weeknd,English,Sad
+980,Tum Hi Ho,Arijit Singh,Hindi,Energetic
+981,Perfect,Adele,English,Calm
+982,Blinding Lights,The Weeknd,English,Sad
+983,Butta Bomma,Sid Sriram,Telugu,Happy
+984,Shayad,Badshah,Hindi,Happy
+985,Perfect,Ed Sheeran,English,Energetic
+986,Seeti Maar,DSP,Telugu,Sad
+987,Channa Mereya,Arijit Singh,Hindi,Romantic
+988,Channa Mereya,Shreya Ghoshal,Hindi,Happy
+989,Someone Like You,Taylor Swift,English,Happy
+990,Seeti Maar,Sid Sriram,Telugu,Sad
+991,Shayad,Arijit Singh,Hindi,Romantic
+992,Blinding Lights,Taylor Swift,English,Romantic
+993,Apna Time Aayega,Arijit Singh,Hindi,Romantic
+994,Vachindamma,DSP,Telugu,Energetic
+995,Roar,Taylor Swift,English,Happy
+996,Seeti Maar,Armaan Malik,Telugu,Romantic
+997,Perfect,Adele,English,Sad
+998,Channa Mereya,Shreya Ghoshal,Hindi,Romantic
+999,Roar,Katy Perry,English,Energetic
+1000,Vachindamma,Sid Sriram,Telugu,Romantic
